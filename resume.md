@@ -1,9 +1,14 @@
 # Kristina Hsu (she/her)
 
 Phone: + 1 (206) 1234567
+
 Email: kris1234@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/kristina-hsu/
-Location: Greater Seattle Area ![A picture of Seattle, WA](https://images.unsplash.com/photo-1502175353174-a7a70e73b362?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1126&q=80)
+
+Location: Greater Seattle Area 
+
+![A picture of Seattle, WA](https://images.unsplash.com/photo-1502175353174-a7a70e73b362?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1126&q=80)
 
 ## About
 
