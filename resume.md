@@ -10,9 +10,11 @@ Location: Greater Seattle Area
 
 ![A picture of Seattle, WA](https://images.unsplash.com/photo-1502175353174-a7a70e73b362?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1126&q=80)
 
+
 ## About
 
 Hello, I am Kristina Hsu (she/her/hers). I am a student pursuing the Geography degree with Data Science focus and also in minoring Informatics. My interests are in technology and human interaction with technology, but I am also an explorer that I often take courses out of my major to broaden my horizons. Outside of school, I enjoy photography, drawing, dancing, and traveling. And through various experiences, I have learned to connect each experience to my interest in data analysis. And I would love to continue expanding and strengthening my experiences in designing and creating ethical and sustainable technology.
+
 
 ## Experience 
 
